@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yungxix
+- 👋 Hi, I’m yungxix
 - 👀 I’m interested in developing amazing software for human use.
 - 🌱 I’m currently learning python and javascript
 - 💞️ Open to collaborate
